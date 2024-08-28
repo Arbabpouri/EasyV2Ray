@@ -1,4 +1,4 @@
-# Free Config Retrieval Telegram Bot + Member Attraction 🤖 | English
+# Free V2Ray Configuration TelegramBot. + Member Attraction 🤖 | English
 
 This bot has two sections: Admin and User, each explained separately.
 
@@ -35,7 +35,7 @@ Users can utilize the following features:
 For more information or assistance, please contact us! 📩
 
 
-# ربات تلگرام دریافت کانفیگ رایگان + جذب ممبر 🤖 | فارسی
+# ربات تلگرام کانفیگ رایگان V2Ray + جذب ممبر 🤖 | فارسی
 
 این ربات دارای دو بخش ادمین و کاربر است که هرکدام جدا توضیح داده شده
 
